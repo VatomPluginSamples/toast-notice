@@ -1,0 +1,15 @@
+{
+  "id": "toast-notice",
+  "name": "Toast Notice",
+  "version": "0.0.1",
+  "beta": true,
+  "personalPlugin": true,
+  "description": "Sample code that controls toast notifications.",
+  "longDescription": "Sample code that controls toast notificati",
+  "configuration": "TBD",
+  "category": "Communication",
+  "businessId": "3UewHF0ge9",
+  "price": 0,
+  "releaseNotes": "first version",
+  "entrypoint": ""
+}
