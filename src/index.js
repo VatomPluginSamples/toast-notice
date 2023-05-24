@@ -9,6 +9,14 @@ import { BasePlugin, BaseComponent } from 'vatom-spaces-plugins'
  * @license MIT
  * @author Vatom Inc.
  */
+
+
+// NOTE:
+// For manual upload of plugin use the following instead of
+// 'import  and 'export default' statements.
+// module.exports = class ...
+
+
 export default class ToastNoticePlugin extends BasePlugin {
   //================ properties of class ToastNoticePlugin
 
